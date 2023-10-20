@@ -1,4 +1,4 @@
-# Database-Management-System-Using-Java-Project
+# Database-Management-System-Project
 
 >This project is created to replecate all the features of database management system.
 >In this project I consider one specific database as an example.
